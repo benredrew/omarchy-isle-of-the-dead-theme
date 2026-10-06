@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Isle of the Dead (Böcklin, 1883): cypress-shadow surfaces, the bone-white
+# shroud for text, ochre lichen for focus and the slate storm sky for info.
+accent = "#C9935A"
+selection = "#3E3A4A"
+muted = "#857D87"
+
+background = "#18161A"
+dark_background = "#121014"
+darker_background = "#0C0B0E"
+lighter_background = "#2A2730"
+
+foreground = "#E3D9CB"
+dark_foreground = "#8A8088"
+light_foreground = "#D0C2B4"
+bright_foreground = "#F4ECE0"
+
+# Window focus runs from the lichen-stained rock into the storm sky.
+hyprland_active_border = "#C9935A #7C84A6 45deg"
+hyprland_inactive_border = "#2E2B33"
+
+red = "#C46A5A"
+yellow = "#D8B070"
+orange = "#C9935A"
+green = "#8E9A78"
+cyan = "#8FA6A8"
+blue = "#8A93B8"
+magenta = "#A88AA6"
+brown = "#7A5E44"
+
+bright_red = "#DE8E7E"
+bright_yellow = "#ECCB92"
+bright_green = "#B1BC98"
+bright_cyan = "#B3C8C8"
+bright_blue = "#AEB5D4"
+bright_magenta = "#C8AAC4"
